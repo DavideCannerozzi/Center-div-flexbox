@@ -1,0 +1,16 @@
+body{ 
+    background-color:#1ac9bd;
+    margin:0;
+    padding:0
+}
+.flex-container{
+    display:flex;
+    height:100vh;
+    justify-content: center;
+    align-items:center
+}
+.flex-item{
+    width:200px;
+    height: 200px;
+    background:#136db6
+}
